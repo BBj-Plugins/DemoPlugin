@@ -1,0 +1,8 @@
+{
+	"name":"DemoPlugin",
+	"description":"Just a demo plugin to play around with",
+	"version": "1.0",
+	"author":"Basis",
+	"dependencies":[]
+}
+
