@@ -1,3 +1,4 @@
+rem opens a Hello World message box
 a = msgbox("Hello World")
 
 bye
