@@ -1,8 +1,15 @@
 {
-	"name":"DemoPlugin",
-	"description":"Just a demo plugin to play around with",
-	"version": "1.0",
-	"author":"Basis",
-	"dependencies":[]
+	"name"               :"DemoPlugin",
+	"description"        :"Just a demo plugin to play around with",
+	"version"            : "1.0",
+	"author"             :"Basis",
+	"bbj_dependency"     : "17.00",
+	"plugin_dependencies": [
+								{
+									"plugin_name"    : "BBjWidget",
+									"plugin_version" : "master",
+									"project_url"    : "https://github.com/BBj-Plugins/BBjWidget"
+								}
+							]
 }
 
