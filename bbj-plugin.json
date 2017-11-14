@@ -4,6 +4,7 @@
 	"version"            : "1.0",
 	"author"             :"Basis",
 	"bbj_dependency"     : "17.00",
+	"documentation_url"  : "http://basishub.github.io/components/javadoc/",
 	"plugin_dependencies": [
 								{
 									"plugin_name"    : "BBjWidget",
