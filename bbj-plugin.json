@@ -1,6 +1,6 @@
 {
 	"name"               :"DemoPlugin",
-	"description"        :"Just a demo plugin to play around with",
+	"description"        :"Just a demo plugin to play with and get familiar with plug-in development. Have a look to learn how to write your own.",
 	"version"            : "1.0",
 	"author"             :"Basis",
 	"bbj_dependency"     : "17.00",
