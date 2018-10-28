@@ -1,2 +1,1 @@
-# DemoPlugin
-A demo plugin used for testing
+Another educational plugin example, used for testing the mechanics around plugin manager. It shows how to add a configuration dialog program, and multiple demo programs that will all be linked from the plugin manager.
