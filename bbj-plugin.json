@@ -1,7 +1,7 @@
 {
 	"name"               :"DemoPlugin",
 	"description"        :"Just a demo plugin to play with and get familiar with plug-in development. Have a look to learn how to write your own.",
-	"version"            : "1.0",
+	"version"            : "1.1",
 	"author"             :"Basis",
 	"bbj_dependency"     : "19.00",
 	"documentation_url"  : "http://basishub.github.io/components/javadoc/",
