@@ -11,6 +11,10 @@
 									"plugin_version" : "master",
 									"project_url"    : "https://github.com/BBj-Plugins/BBjWidget"
 								}
-							]
+							],
+	"pre-install-hooks"   : ["hooks/PreInstall.bbj","hooks/PreInstall.bbj"],
+	"post-install-hooks"  : "hooks/PostInstall.bbj",
+	"pre-uninstall-hooks" : "hooks/PreUninstall.bbj",
+	"post-uninstall-hooks": "hooks/PostUninstall.bbj"
 }
 

@@ -1,0 +1,2 @@
+a = msgbox("Pre Uninstall Script")
+release

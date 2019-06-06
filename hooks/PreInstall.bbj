@@ -1,0 +1,2 @@
+a = msgbox("Pre Install Script")
+release
