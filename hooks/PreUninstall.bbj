@@ -1,2 +1,2 @@
-a = msgbox("Pre Uninstall Script")
+a = msgbox("Demonstrating Pre Uninstall Script")
 release

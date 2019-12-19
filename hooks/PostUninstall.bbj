@@ -1,2 +1,2 @@
-a = msgbox("Post Uninstall Script")
+a = msgbox("Demonstrating Post Uninstall Script")
 release

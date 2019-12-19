@@ -1,2 +1,2 @@
-a = msgbox("Pre Install Script")
+a = msgbox("Demonstrating Pre Install Script")
 release

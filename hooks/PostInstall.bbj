@@ -1,2 +1,2 @@
-a = msgbox("Post Install Script")
+a = msgbox("Demonstrating  Post Install Script")
 release
